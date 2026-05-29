@@ -1,5 +1,5 @@
 <div align="center">
-
+    
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=💡%20Bots%20Of%20Atramente&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Community-Driven%20Ideas%20for%20Bots%20%26%20Web%20Projects&descAlignY=78&descSize=16" width="100%"/>
 
 <br/>
