@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bots%20Of%20Atramente&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Community-Driven%20Ideas%20for%20Bots%20%26%20Web%20Projects&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Bots%20Of%20Atramente&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Community-Driven%20Ideas%20for%20Bots%20and%20Web%20Projects&descAlignY=58&descSize=16" width="100%"/>
 
 <br/>
 
@@ -14,18 +14,12 @@
 
 </div>
 
----
+*Â« This repository is a space where the community can contribute ideas for new projects Â»*
+*bots, websites, and tools designed to grow and improve the Atramente ecosystem. Â»*
 
-<div align="center">
+-----
 
-*« This repository is a space where the community can contribute ideas for new projects —*
-*bots, websites, and tools — designed to grow and improve the Atramente ecosystem. »*
-
-</div>
-
----
-
-## 📌 Table of Contents
+## ð Table of Contents
 
 - [About](#-about)
 - [What Kind of Ideas](#-what-kind-of-ideas)
@@ -35,97 +29,97 @@
 - [Community](#-community)
 - [License](#-license)
 
----
+-----
 
-## 🧭 About
+## ð§­ About
 
 **Bots of Atramente** is a community born in **2026** with the goal of developing useful and innovative resources for Telegram users and beyond.
 
-This repository serves as the **official idea board** for the community » a place where anyone can propose, discuss, and inspire new projects to be developed by the Atramente team.
+This repository serves as the **official idea board** for the community Â» a place where anyone can propose, discuss, and inspire new projects to be developed by the Atramente team.
 
 We believe that the best ideas come from the people who use these tools every day. That is why this space exists: to give every member of the community a voice in shaping what gets built next.
 
 Whether you have an idea for a **Telegram bot** that solves a real problem, or a **web project** that could benefit the community, this is the right place to share it.
 
----
+-----
 
-## 💡 What Kind of Ideas
+## ð¡ What Kind of Ideas
 
 We are open to a wide range of project ideas. Here are some examples of what you can propose:
 
-**🤖 Telegram Bots**
+**ð¤ Telegram Bots**
 
-» Bots that automate tasks or provide useful services directly inside Telegram
+Â» Bots that automate tasks or provide useful services directly inside Telegram
 
-» Bots that entertain, inform, or assist users within groups or privately
+Â» Bots that entertain, inform, or assist users within groups or privately
 
-» Tools that integrate with existing Atramente bots to extend their functionality
+Â» Tools that integrate with existing Atramente bots to extend their functionality
 
-**🌐 Web Projects**
+**ð Web Projects**
 
-» Websites or web tools that provide value to the Telegram community
+Â» Websites or web tools that provide value to the Telegram community
 
-» Dashboards, portals, or platforms connected to community services
+Â» Dashboards, portals, or platforms connected to community services
 
-» Any web-based utility that could complement the existing ecosystem
+Â» Any web-based utility that could complement the existing ecosystem
 
----
+-----
 
-## 👥 Who Can Participate
+## ð¥ Who Can Participate
 
 **Everyone.** There are no requirements, no forms to fill out, no approval needed to participate.
 
-» You do not need to be a developer
+Â» You do not need to be a developer
 
-» You do not need to have technical knowledge
+Â» You do not need to have technical knowledge
 
-» You just need an idea and the willingness to share it
+Â» You just need an idea and the willingness to share it
 
 The Atramente community was built on the contributions of its members. Every idea, no matter how big or small, is welcome and will be considered.
 
----
+-----
 
-## 📬 How to Submit an Idea
+## ð¬ How to Submit an Idea
 
 You can submit your idea through two official channels:
 
-**» Via Telegram » Direct Message**
+**Â» Via Telegram Â» Direct Message**
 
-Reach out directly to [@Atramente](https://t.me/Atramente) with a description of your idea. Be as detailed as possible » the more context you provide, the better we can evaluate the proposal.
+Reach out directly to [@Atramente](https://t.me/Atramente) with a description of your idea. Be as detailed as possible Â» the more context you provide, the better we can evaluate the proposal.
 
-**» Via Bot » @AtramenteLimitatiBot**
+**Â» Via Bot Â» @AtramenteLimitatiBot**
 
 You can also submit your idea through the official bot [@AtramenteLimitatiBot](https://t.me/AtramenteLimitatiBot), available directly on Telegram.
 
-**💡 Tips for a good idea submission:**
+**ð¡ Tips for a good idea submission:**
 
-» Describe the problem your idea would solve
+Â» Describe the problem your idea would solve
 
-» Explain what type of project it would be (bot, website, tool)
+Â» Explain what type of project it would be (bot, website, tool)
 
-» Mention who would benefit from it
+Â» Mention who would benefit from it
 
-» Keep it clear and concise » no need for a technical specification
+Â» Keep it clear and concise Â» no need for a technical specification
 
----
+-----
 
-## 🔍 How Ideas Are Evaluated
+## ð How Ideas Are Evaluated
 
 Once an idea is submitted, the Atramente team will review it and assess its feasibility, relevance to the community, and development priority.
 
-» Ideas that address a real community need will be prioritized
+Â» Ideas that address a real community need will be prioritized
 
-» All submitted ideas are read and considered, even if not immediately developed
+Â» All submitted ideas are read and considered, even if not immediately developed
 
-» If your idea is selected, you will be credited as the original proposer
+Â» If your idea is selected, you will be credited as the original proposer
 
-» Development timelines may vary depending on complexity and available resources
+Â» Development timelines may vary depending on complexity and available resources
 
----
+-----
 
-## 🌐 Community
+## ð Community
 
-**Bots of Atramente** is more than just a development team » it is a growing community of people who share a passion for useful tools and resources on Telegram.
+**Bots of Atramente** is more than just a development team Â» it is a growing community of people who share a passion for useful tools and resources on Telegram.
 
 Join the community, follow updates, and be part of something being built from the ground up:
 
@@ -135,23 +129,23 @@ Join the community, follow updates, and be part of something being built from th
 
 </div>
 
----
+-----
 
-## 📄 License
+## ð License
 
-© 2026 Bots of Atramente » All rights reserved.  
-Content submitted as ideas remains the intellectual property of their respective authors.  
+Â© 2026 Bots of Atramente Â» All rights reserved.
+Content submitted as ideas remains the intellectual property of their respective authors.
 Copying, distribution, or use of any part of this project without explicit permission is strictly prohibited.
 
----
+-----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 
-*« Built by the community, for the community. »*
+*Â« Built by the community, for the community. Â»*
 
 <br/>
 
@@ -161,6 +155,6 @@ Copying, distribution, or use of any part of this project without explicit permi
 
 <br/>
 
-*© 2026 Bots of Atramente » All rights reserved.*
+*Â© 2026 Bots of Atramente Â» All rights reserved.*
 
 </div>
