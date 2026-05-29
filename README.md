@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bots%20Of%20Atramente&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Community-Driven%20Ideas%20for%20Bots%20%26%20Web%20Projects&descAlignY=58&descSize=16" width="100%"/>
+
+<br/>
 
 [![Community](https://img.shields.io/badge/Community-@BotsOfAtramente-7289DA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotsOfAtramente)
 [![Contact](https://img.shields.io/badge/Contact-@Atramente-5865F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Atramente)
